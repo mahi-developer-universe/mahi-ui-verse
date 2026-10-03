@@ -1,0 +1,32 @@
+﻿name: Resource Quality
+
+on:
+  push:
+    paths:
+      - "**.md"
+      - "scripts/**"
+      - ".github/workflows/resource-quality.yml"
+  pull_request:
+    paths:
+      - "**.md"
+      - "scripts/**"
+      - ".github/workflows/resource-quality.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find duplicate URLs
+        shell: pwsh
+        run: ./scripts/find-duplicates.ps1
+
+      - name: Validate Markdown resources
+        shell: pwsh
+        run: ./scripts/validate-resources.ps1 -Strict

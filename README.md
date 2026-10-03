@@ -66,3 +66,7 @@ Help expand this directory by adding useful resources, removing duplicate URLs, 
 ---
 
 Maintained by **Maheswari Pinneti** | Frontend Developer
+
+### New Resource Collection
+
+- [130 New UI/UX, Frontend & Design Resources](resources/new-resources.md)

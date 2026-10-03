@@ -1,0 +1,5 @@
+﻿"Severity","File","Line","Issue","Detail"
+"WARNING","README.md","58","Possible placeholder","`- [Resource Name](https://example.com/) — Short description`"
+"WARNING","resources\images.md","12","Possible placeholder","| Lorem Picsum | https://picsum.photos/ | Placeholder images |"
+"WARNING","resources\images.md","13","Possible placeholder","| Placehold.co | https://placehold.co/ | Placeholder graphics |"
+"WARNING","security\SECURITY-CHECKLIST.md","10","Possible placeholder","- [ ] Documentation examples use placeholder credentials."

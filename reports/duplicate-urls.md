@@ -1,0 +1,147 @@
+﻿# Duplicate URL Audit
+
+Generated: 2026-10-03 20:23:55
+
+Markdown files scanned: 41
+URL occurrences: 282
+Duplicate canonical URL groups: 49
+
+These are review candidates, not automatic deletion instructions.
+Repeated URLs can be valid in navigation, examples, and cross-category lists.
+
+``text
+
+CanonicalURL                                   Occurrences File                                 Line OriginalURL                                           
+------------                                   ----------- ----                                 ---- -----------                                           
+evilcharts.com/                                          7 README.md                              35 https://evilcharts.com/                               
+evilcharts.com/                                          7 demos\demo-links.md                     7 https://evilcharts.com/                               
+evilcharts.com/                                          7 guides\resource-format.md               8 https://evilcharts.com/                               
+evilcharts.com/                                          7 resources\curated-resources.md          9 https://evilcharts.com/                               
+evilcharts.com/                                          7 resources\website-directory.md          6 https://evilcharts.com/                               
+evilcharts.com/                                          7 ui\charts.md                            5 https://evilcharts.com/                               
+evilcharts.com/                                          7 videos\ui-demos.md                     10 https://evilcharts.com/                               
+forgeui.in/                                              4 README.md                              36 https://forgeui.in/                                   
+forgeui.in/                                              4 resources\curated-resources.md         10 https://forgeui.in/                                   
+forgeui.in/                                              4 resources\website-directory.md         11 https://forgeui.in/                                   
+forgeui.in/                                              4 ui\ui-generators.md                    10 https://forgeui.in/                                   
+skiper-ui.com/                                           5 README.md                              37 https://skiper-ui.com/                                
+skiper-ui.com/                                           5 resources\curated-resources.md         11 https://skiper-ui.com/                                
+skiper-ui.com/                                           5 resources\website-directory.md         16 https://skiper-ui.com/                                
+skiper-ui.com/                                           5 ui\animations.md                       14 https://skiper-ui.com/                                
+skiper-ui.com/                                           5 ui\ui-generators.md                    11 https://skiper-ui.com/                                
+cult-ui.com/                                             5 README.md                              38 https://www.cult-ui.com/                              
+cult-ui.com/                                             5 resources\curated-resources.md         12 https://www.cult-ui.com/                              
+cult-ui.com/                                             5 resources\website-directory.md         21 https://www.cult-ui.com/                              
+cult-ui.com/                                             5 resources\website-directory.md         22 https://www.cult-ui.com/                              
+cult-ui.com/                                             5 ui\ui-generators.md                     9 https://www.cult-ui.com/                              
+ui.shadcn.com/                                           6 README.md                              39 https://ui.shadcn.com/                                
+ui.shadcn.com/                                           6 demos\demo-links.md                     8 https://ui.shadcn.com/                                
+ui.shadcn.com/                                           6 frontend\libraries.md                   9 https://ui.shadcn.com/                                
+ui.shadcn.com/                                           6 resources\curated-resources.md         13 https://ui.shadcn.com/                                
+ui.shadcn.com/                                           6 ui\component-libraries.md               5 https://ui.shadcn.com/                                
+ui.shadcn.com/                                           6 videos\ui-demos.md                     11 https://ui.shadcn.com/                                
+21st.dev/                                                3 README.md                              40 https://21st.dev/                                     
+21st.dev/                                                3 resources\curated-resources.md         14 https://21st.dev/                                     
+21st.dev/                                                3 ui\ui-generators.md                    12 https://21st.dev/                                     
+ui.aceternity.com/                                       4 README.md                              41 https://ui.aceternity.com/                            
+ui.aceternity.com/                                       4 demos\demo-links.md                    10 https://ui.aceternity.com/                            
+ui.aceternity.com/                                       4 resources\curated-resources.md         15 https://ui.aceternity.com/                            
+ui.aceternity.com/                                       4 ui\ui-generators.md                    13 https://ui.aceternity.com/                            
+magicui.design/                                          6 README.md                              42 https://magicui.design/                               
+magicui.design/                                          6 demos\demo-links.md                    11 https://magicui.design/                               
+magicui.design/                                          6 demos\demo-links.md                    11 https://magicui.design/                               
+magicui.design/                                          6 resources\curated-resources.md         16 https://magicui.design/                               
+magicui.design/                                          6 ui\animations.md                       13 https://magicui.design/                               
+magicui.design/                                          6 ui\ui-generators.md                     8 https://magicui.design/                               
+motion-primitives.com/                                   2 README.md                              43 https://motion-primitives.com/                        
+motion-primitives.com/                                   2 resources\curated-resources.md         17 https://motion-primitives.com/                        
+reactbits.dev/                                           6 README.md                              44 https://reactbits.dev/                                
+reactbits.dev/                                           6 demos\demo-links.md                     9 https://reactbits.dev/                                
+reactbits.dev/                                           6 demos\demo-links.md                     9 https://reactbits.dev/                                
+reactbits.dev/                                           6 resources\curated-resources.md         18 https://reactbits.dev/                                
+reactbits.dev/                                           6 ui\animations.md                       12 https://reactbits.dev/                                
+reactbits.dev/                                           6 ui\ui-generators.md                    14 https://reactbits.dev/                                
+evilcharts.com/docs/recharts/area-chart/static           2 demos\demo-links.md                     7 https://evilcharts.com/docs/recharts/area-chart/static
+evilcharts.com/docs/recharts/area-chart/static           2 guides\resource-format.md              12 https://evilcharts.com/docs/recharts/area-chart/static
+animista.net/                                            2 frontend\css.md                        10 https://animista.net/                                 
+animista.net/                                            2 ui\animations.md                       11 https://animista.net/                                 
+mui.com/                                                 2 frontend\libraries.md                   5 https://mui.com/                                      
+mui.com/                                                 2 ui\component-libraries.md               6 https://mui.com/                                      
+ant.design/                                              2 frontend\libraries.md                   6 https://ant.design/                                   
+ant.design/                                              2 ui\component-libraries.md               7 https://ant.design/                                   
+chakra-ui.com/                                           2 frontend\libraries.md                   7 https://chakra-ui.com/                                
+chakra-ui.com/                                           2 ui\component-libraries.md               9 https://chakra-ui.com/                                
+radix-ui.com/                                            2 frontend\libraries.md                   8 https://www.radix-ui.com/                             
+radix-ui.com/                                            2 ui\component-libraries.md              10 https://www.radix-ui.com/                             
+recharts.org/                                            2 frontend\libraries.md                  11 https://recharts.org/                                 
+recharts.org/                                            2 ui\charts.md                            6 https://recharts.org/                                 
+d3js.org/                                                2 frontend\libraries.md                  12 https://d3js.org/                                     
+d3js.org/                                                2 ui\charts.md                           11 https://d3js.org/                                     
+motion.dev/                                              2 frontend\libraries.md                  13 https://motion.dev/                                   
+motion.dev/                                              2 ui\animations.md                        5 https://motion.dev/                                   
+evilcharts.com/docs                                      2 guides\resource-format.md              11 https://evilcharts.com/docs                           
+evilcharts.com/docs                                      2 resources\curated-resources.md          9 https://evilcharts.com/docs                           
+land-book.com/                                           2 inspiration\landing-pages.md            5 https://land-book.com/                                
+land-book.com/                                           2 inspiration\website-inspiration.md     11 https://land-book.com/                                
+lapa.ninja/                                              2 inspiration\landing-pages.md            6 https://www.lapa.ninja/                               
+lapa.ninja/                                              2 inspiration\website-inspiration.md     12 https://www.lapa.ninja/                               
+onepagelove.com/                                         2 inspiration\landing-pages.md            7 https://onepagelove.com/                              
+onepagelove.com/                                         2 inspiration\website-inspiration.md     10 https://onepagelove.com/                              
+awwwards.com/                                            2 inspiration\portfolio-inspiration.md    5 https://www.awwwards.com/                             
+awwwards.com/                                            2 inspiration\website-inspiration.md      5 https://www.awwwards.com/                             
+behance.net/                                             2 inspiration\portfolio-inspiration.md    6 https://www.behance.net/                              
+behance.net/                                             2 videos\ui-demos.md                      9 https://www.behance.net/                              
+dribbble.com/                                            2 inspiration\portfolio-inspiration.md    7 https://dribbble.com/                                 
+dribbble.com/                                            2 videos\ui-demos.md                      8 https://dribbble.com/                                 
+minimal.gallery/                                         3 inspiration\website-inspiration.md      9 https://minimal.gallery/                              
+minimal.gallery/                                         3 resources\website-directory.md        138 https://minimal.gallery/                              
+minimal.gallery/                                         3 resources\website-directory.md        139 https://minimal.gallery/                              
+fonts.google.com/                                        2 resources\fonts.md                      5 https://fonts.google.com/                             
+fonts.google.com/                                        2 resources\free-assets.md               11 https://fonts.google.com/                             
+typescale.com/                                           2 resources\fonts.md                     11 https://typescale.com/                                
+typescale.com/                                           2 resources\fonts.md                     12 https://typescale.com/                                
+undraw.co/illustrations                                  2 resources\free-assets.md                7 https://undraw.co/illustrations                       
+undraw.co/illustrations                                  2 resources\illustrations.md              5 https://undraw.co/illustrations                       
+storyset.com/                                            2 resources\free-assets.md                8 https://storyset.com/                                 
+storyset.com/                                            2 resources\illustrations.md              6 https://storyset.com/                                 
+openverse.org/                                           2 resources\free-assets.md               10 https://openverse.org/                                
+openverse.org/                                           2 resources\images.md                    10 https://openverse.org/                                
+lucide.dev/                                              2 resources\free-assets.md               12 https://lucide.dev/                                   
+lucide.dev/                                              2 resources\icons.md                      5 https://lucide.dev/                                   
+heroicons.com/                                           2 resources\free-assets.md               13 https://heroicons.com/                                
+heroicons.com/                                           2 resources\icons.md                      6 https://heroicons.com/                                
+manypixels.co/gallery                                    2 resources\free-assets.md               14 https://www.manypixels.co/gallery                     
+manypixels.co/gallery                                    2 resources\illustrations.md              8 https://www.manypixels.co/gallery                     
+figma.com/                                               3 ux\prototyping.md                       5 https://www.figma.com/                                
+figma.com/                                               3 ux\ux-tools.md                          5 https://www.figma.com/                                
+figma.com/                                               3 ux\wireframing.md                       6 https://www.figma.com/                                
+penpot.app/                                              2 ux\prototyping.md                      10 https://penpot.app/                                   
+penpot.app/                                              2 ux\wireframing.md                      11 https://penpot.app/                                   
+maze.co/                                                 2 ux\user-research.md                     7 https://maze.co/                                      
+maze.co/                                                 2 ux\ux-tools.md                          7 https://maze.co/                                      
+usertesting.com/                                         2 ux\user-research.md                     8 https://www.usertesting.com/                          
+usertesting.com/                                         2 ux\ux-tools.md                         12 https://www.usertesting.com/                          
+optimalworkshop.com/                                     2 ux\user-research.md                     9 https://www.optimalworkshop.com/                      
+optimalworkshop.com/                                     2 ux\ux-tools.md                          9 https://www.optimalworkshop.com/                      
+figma.com/figjam                                         2 ux\ux-tools.md                          6 https://www.figma.com/figjam/                         
+figma.com/figjam                                         2 ux\wireframing.md                       7 https://www.figma.com/figjam/                         
+youtube.com/@webdevsimplified                            2 videos\frontend-demos.md                6 https://www.youtube.com/@WebDevSimplified             
+youtube.com/@webdevsimplified                            2 videos\tutorials.md                     8 https://www.youtube.com/@WebDevSimplified             
+youtube.com/@kevinpowell                                 2 videos\frontend-demos.md                7 https://www.youtube.com/@KevinPowell                  
+youtube.com/@kevinpowell                                 2 videos\tutorials.md                     9 https://www.youtube.com/@KevinPowell                  
+youtube.com/@netninja                                    2 videos\frontend-demos.md               10 https://www.youtube.com/@NetNinja                     
+youtube.com/@netninja                                    2 videos\tutorials.md                     7 https://www.youtube.com/@NetNinja                     
+youtube.com/@freecodecamp                                2 videos\frontend-demos.md               11 https://www.youtube.com/@freecodecamp                 
+youtube.com/@freecodecamp                                2 videos\tutorials.md                     6 https://www.youtube.com/@freecodecamp                 
+frontendmentor.io/                                       2 videos\frontend-demos.md               14 https://www.frontendmentor.io/                        
+frontendmentor.io/                                       2 videos\ui-demos.md                      6 https://www.frontendmentor.io/                        
+codepen.io/                                              2 videos\frontend-demos.md               15 https://codepen.io/                                   
+codepen.io/                                              2 videos\ui-demos.md                      7 https://codepen.io/                                   
+youtube.com/@javascriptmastery                           2 videos\tutorials.md                    10 https://www.youtube.com/@javascriptmastery            
+youtube.com/@javascriptmastery                           2 videos\ui-demos.md                     16 https://www.youtube.com/@javascriptmastery            
+youtube.com/@designcourse                                2 videos\tutorials.md                    11 https://www.youtube.com/@DesignCourse                 
+youtube.com/@designcourse                                2 videos\ui-demos.md                     15 https://www.youtube.com/@DesignCourse                 
+
+
+
+``

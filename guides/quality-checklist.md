@@ -1,11 +1,17 @@
 ﻿# Resource Quality Checklist
 
-- [ ] Official URL is correct and canonical.
-- [ ] The resource is not already in the master catalogue.
-- [ ] The description is specific and original.
-- [ ] The category matches the resource.
-- [ ] Demo links open the intended example.
-- [ ] Video links are relevant and accessible.
-- [ ] Pricing and license statements have been checked.
-- [ ] Markdown formatting is valid.
-- [ ] No unsupported claims about popularity or features.
+Before adding a resource:
+
+- [ ] Confirm the official website and canonical URL.
+- [ ] Search the repository for an existing entry.
+- [ ] Use a specific category and an original description.
+- [ ] Label homepage, documentation, demo, and video separately.
+- [ ] Include a direct demo only when it is known and relevant.
+- [ ] Include pricing and license information only when verified.
+- [ ] Do not invent features, popularity claims, links, or licenses.
+- [ ] Preserve useful metadata when merging duplicates.
+- [ ] Check internal Markdown links and formatting.
+- [ ] Mark unverified links clearly.
+
+A repeated URL is a review candidate, not proof that an entry should be deleted.
+Cross-category navigation and distinct examples may legitimately repeat.

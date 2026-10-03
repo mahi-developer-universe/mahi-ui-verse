@@ -44,7 +44,6 @@ Each entry should contain the website URL, a distinct demo URL when available, c
 
 ## 9. Agent Builder UI
 - Website: https://agent-builder-ui-one.vercel.app/#/agents/product-discovery
-- Demo: https://agent-builder-ui-one.vercel.app/#/agents/product-discovery
 - Category: AI Interface Experiments
 
 ## 10. Oguz Design
@@ -54,7 +53,6 @@ Each entry should contain the website URL, a distinct demo URL when available, c
 
 ## 11. Keyline Icons
 - Website: https://keylineicons.com/icons
-- Demo: https://keylineicons.com/icons
 - Category: Icons
 
 ## 12. Spherium
@@ -69,7 +67,6 @@ Each entry should contain the website URL, a distinct demo URL when available, c
 
 ## 14. ASCII Magic
 - Website: https://www.ascii-magic.com/
-- Demo: https://www.ascii-magic.com/
 - Category: Generative Art
 
 ## 15. Game UI
@@ -79,42 +76,34 @@ Each entry should contain the website URL, a distinct demo URL when available, c
 
 ## 16. GradienTool
 - Website: https://www.gradientool.com/
-- Demo: https://www.gradientool.com/
 - Category: Gradient Tools
 
 ## 17. Gradient Lab
 - Website: https://backgrounds.supply/gradient-lab
-- Demo: https://backgrounds.supply/gradient-lab
 - Category: Background Generators
 
 ## 18. Animos
 - Website: https://animos.app/editor
-- Demo: https://animos.app/editor
 - Category: Animation Tools
 
 ## 19. Cutting Mat Generator
 - Website: https://cutting-mat-generator.vercel.app/
-- Demo: https://cutting-mat-generator.vercel.app/
 - Category: Generators
 
 ## 20. Space Type Generator
 - Website: https://spacetypegenerator.com/
-- Demo: https://spacetypegenerator.com/
 - Category: Typography Tools
 
 ## 21. Book of Shapes
 - Website: https://bookofshapes.com/
-- Demo: https://bookofshapes.com/
 - Category: Shape Resources
 
 ## 22. Tabbied Patterns
 - Website: https://tabbied.com/patterns/
-- Demo: https://tabbied.com/patterns/
 - Category: Pattern Generators
 
 ## 23. Dot Forge
 - Website: https://dotforge.vercel.app/
-- Demo: https://dotforge.vercel.app/
 - Category: Generative Graphics
 
 ## 24. Frontend Design Skill
@@ -134,7 +123,6 @@ Each entry should contain the website URL, a distinct demo URL when available, c
 
 ## 27. Shoogle Directory
 - Website: https://shoogle.dev/directory
-- Demo: https://shoogle.dev/directory
 - Category: Resource Directory
 
 ## 28. Search System
@@ -144,7 +132,6 @@ Each entry should contain the website URL, a distinct demo URL when available, c
 
 ## 29. Logoinspo
 - Website: https://logoinspo.com/
-- Demo: https://logoinspo.com/
 - Category: Logo Inspiration
 
 ## 30. Minimal Gallery
