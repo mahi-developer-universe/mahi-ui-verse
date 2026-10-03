@@ -1,60 +1,22 @@
-﻿# 🎥 UI / UX / Frontend Videos
+﻿# Frontend and UI/UX Tutorials
 
-Use these platforms to discover UI demonstrations, frontend tutorials,
-component demos and development walkthroughs.
+This file is for structured lessons and learning paths, rather than a list of component showcases.
 
-## YouTube
+## Tutorial sources
+- [freeCodeCamp](https://www.youtube.com/@freecodecamp)
+- [The Net Ninja](https://www.youtube.com/@NetNinja)
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
+- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+- [DesignCourse](https://www.youtube.com/@DesignCourse)
 
-https://www.youtube.com/
+## Suggested learning tracks
+1. HTML semantics and accessibility
+2. CSS layout, responsive design, and animation
+3. JavaScript fundamentals and browser APIs
+4. React components, state, and data fetching
+5. TypeScript and frontend architecture
+6. Testing, performance, and accessibility audits
+7. UI design systems and design-to-code workflows
 
-## Frontend Mentor
-
-https://www.frontendmentor.io/
-
-## Web Dev Simplified
-
-https://www.youtube.com/@WebDevSimplified
-
-## Kevin Powell
-
-https://www.youtube.com/@KevinPowell
-
-## Fireship
-
-https://www.youtube.com/@Fireship
-
-## Traversy Media
-
-https://www.youtube.com/@TraversyMedia
-
-## JavaScript Mastery
-
-https://www.youtube.com/@javascriptmastery
-
-## DesignCourse
-
-https://www.youtube.com/@DesignCourse
-
-## Hyperplexed
-
-https://www.youtube.com/@Hyperplexed
-
-## Flux Academy
-
-https://www.youtube.com/@FluxAcademy
-
-## DesignCode
-
-https://www.youtube.com/@designcode
-
-## The Net Ninja
-
-https://www.youtube.com/@NetNinja
-
-## freeCodeCamp
-
-https://www.youtube.com/@freecodecamp
-
-## Fireship Web Development
-
-https://www.youtube.com/@Fireship
+Add direct lesson links, topic, creator, and difficulty when verified.

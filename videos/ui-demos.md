@@ -1,60 +1,18 @@
-﻿# 🎥 UI / UX / Frontend Videos
+﻿# UI / UX Demonstrations
 
-Use these platforms to discover UI demonstrations, frontend tutorials,
-component demos and development walkthroughs.
+Explore interface showcases, component previews, and design walkthroughs.
 
-## YouTube
+## UI inspiration and examples
+- [Frontend Mentor](https://www.frontendmentor.io/) — Build projects from design briefs.
+- [CodePen](https://codepen.io/) — Interactive HTML, CSS, and JavaScript examples.
+- [Dribbble](https://dribbble.com/) — Interface and visual design inspiration.
+- [Behance](https://www.behance.net/) — Design case studies and portfolios.
+- [Evil Charts](https://evilcharts.com/) — Chart component examples.
+- [shadcn/ui](https://ui.shadcn.com/) — Component documentation and examples.
 
-https://www.youtube.com/
+## Video discovery
+- [Hyperplexed](https://www.youtube.com/@Hyperplexed)
+- [DesignCourse](https://www.youtube.com/@DesignCourse)
+- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
 
-## Frontend Mentor
-
-https://www.frontendmentor.io/
-
-## Web Dev Simplified
-
-https://www.youtube.com/@WebDevSimplified
-
-## Kevin Powell
-
-https://www.youtube.com/@KevinPowell
-
-## Fireship
-
-https://www.youtube.com/@Fireship
-
-## Traversy Media
-
-https://www.youtube.com/@TraversyMedia
-
-## JavaScript Mastery
-
-https://www.youtube.com/@javascriptmastery
-
-## DesignCourse
-
-https://www.youtube.com/@DesignCourse
-
-## Hyperplexed
-
-https://www.youtube.com/@Hyperplexed
-
-## Flux Academy
-
-https://www.youtube.com/@FluxAcademy
-
-## DesignCode
-
-https://www.youtube.com/@designcode
-
-## The Net Ninja
-
-https://www.youtube.com/@NetNinja
-
-## freeCodeCamp
-
-https://www.youtube.com/@freecodecamp
-
-## Fireship Web Development
-
-https://www.youtube.com/@Fireship
+Add direct video URLs for individual demonstrations when verified.

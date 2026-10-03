@@ -1,60 +1,17 @@
-﻿# 🎥 UI / UX / Frontend Videos
+﻿# Frontend Development Demonstrations
 
-Use these platforms to discover UI demonstrations, frontend tutorials,
-component demos and development walkthroughs.
+Resources for seeing real frontend implementation and browser behavior.
 
-## YouTube
+## Learning channels
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
+- [Traversy Media](https://www.youtube.com/@TraversyMedia)
+- [Fireship](https://www.youtube.com/@Fireship)
+- [The Net Ninja](https://www.youtube.com/@NetNinja)
+- [freeCodeCamp](https://www.youtube.com/@freecodecamp)
 
-https://www.youtube.com/
+## Interactive practice
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [CodePen](https://codepen.io/)
 
-## Frontend Mentor
-
-https://www.frontendmentor.io/
-
-## Web Dev Simplified
-
-https://www.youtube.com/@WebDevSimplified
-
-## Kevin Powell
-
-https://www.youtube.com/@KevinPowell
-
-## Fireship
-
-https://www.youtube.com/@Fireship
-
-## Traversy Media
-
-https://www.youtube.com/@TraversyMedia
-
-## JavaScript Mastery
-
-https://www.youtube.com/@javascriptmastery
-
-## DesignCourse
-
-https://www.youtube.com/@DesignCourse
-
-## Hyperplexed
-
-https://www.youtube.com/@Hyperplexed
-
-## Flux Academy
-
-https://www.youtube.com/@FluxAcademy
-
-## DesignCode
-
-https://www.youtube.com/@designcode
-
-## The Net Ninja
-
-https://www.youtube.com/@NetNinja
-
-## freeCodeCamp
-
-https://www.youtube.com/@freecodecamp
-
-## Fireship Web Development
-
-https://www.youtube.com/@Fireship
+Prefer direct videos for React, CSS, accessibility, responsive design, testing, and performance.
