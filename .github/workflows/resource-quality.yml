@@ -2,31 +2,112 @@
 
 on:
   push:
+    branches:
+      - main
     paths:
-      - "**.md"
+      - "**/*.json"
+      - "**/*.md"
       - "scripts/**"
-      - ".github/workflows/resource-quality.yml"
+      - ".github/workflows/**"
+
   pull_request:
+    branches:
+      - main
     paths:
-      - "**.md"
+      - "**/*.json"
+      - "**/*.md"
       - "scripts/**"
-      - ".github/workflows/resource-quality.yml"
+      - ".github/workflows/**"
+
   workflow_dispatch:
 
-permissions:
-  contents: read
-
 jobs:
-  validate:
-    runs-on: windows-latest
+
+  secret-scan:
+    name: Secret Scan
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
-      - name: Find duplicate URLs
-        shell: pwsh
-        run: ./scripts/find-duplicates.ps1
+      - name: Gitleaks
+        uses: gitleaks/gitleaks-action@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITLEAKS_LICENSE: ${{ secrets.GITLEAKS_LICENSE }}
 
-      - name: Validate Markdown resources
+  resource-quality:
+    name: Resource Quality
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Validate JSON
         shell: pwsh
-        run: ./scripts/validate-resources.ps1 -Strict
+        run: |
+          $json = Get-Content "registry/resources.json" -Raw | ConvertFrom-Json
+
+          if ($null -eq $json) {
+            throw "resources.json is invalid"
+          }
+
+          Write-Host "resources.json is valid."
+
+      - name: Validate resources
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/validate-resources.ps1") {
+            ./scripts/validate-resources.ps1 -Strict
+          }
+
+      - name: Validate metadata
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/validate-metadata.ps1") {
+            ./scripts/validate-metadata.ps1
+          }
+
+      - name: Find duplicates
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/find-duplicates.ps1") {
+            ./scripts/find-duplicates.ps1
+          }
+
+      - name: Audit duplicate URLs
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/audit-duplicates.ps1") {
+            ./scripts/audit-duplicates.ps1
+          }
+
+      - name: Audit near duplicates
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/audit-near-duplicates.ps1") {
+            ./scripts/audit-near-duplicates.ps1
+          }
+
+      - name: Check links
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/check-links.ps1") {
+            ./scripts/check-links.ps1
+          }
+
+      - name: Resource statistics
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/resource-stats.ps1") {
+            ./scripts/resource-stats.ps1
+          }
+
+      - name: Git diff check
+        shell: pwsh
+        run: |
+          git diff --check
