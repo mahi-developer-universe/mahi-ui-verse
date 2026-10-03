@@ -13,3 +13,26 @@ desktop.ini
 
 # Local documentation backups
 /backups/
+
+# Security: environment files and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Local files and sensitive data
+/backups/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Dependency and generated directories
+node_modules/
+dist/
+coverage/
