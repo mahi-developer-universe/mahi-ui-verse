@@ -1,0 +1,7 @@
+﻿"MissingFromCI"
+"validate-metadata.ps1"
+"audit-duplicates.ps1"
+"audit-near-duplicates.ps1"
+"check-links.ps1"
+"build-registry.ps1"
+"resource-stats.ps1"
