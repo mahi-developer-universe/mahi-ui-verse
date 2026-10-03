@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id":  "60fps",
         "name":  "60fps",
@@ -20,7 +20,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://60fps.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "60fps",
+        "description":  "60fps — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "a1-gallery",
@@ -43,7 +47,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.a1.gallery",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "a1-gallery",
+        "description":  "A1 Gallery — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "apple-design-skill",
@@ -66,7 +74,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.ui-skills.com/skills/emilkowalski/apple-design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "apple-design-skill",
+        "description":  "Apple Design Skill — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "atla-design",
@@ -89,7 +101,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.atla.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "atla-design",
+        "description":  "Atla Design — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "best-design-sonx",
@@ -112,7 +128,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://bestdesignsonx.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "best-design-sonx",
+        "description":  "Best Design Sonx — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "cta-gallery",
@@ -135,7 +155,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.cta.gallery",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "cta-gallery",
+        "description":  "CTA Gallery — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "deck-gallery-wetransfer-ideas-report-2020",
@@ -158,7 +182,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.deck.gallery/wetransfer-ideas-report-2020",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "deck-gallery-wetransfer-ideas-report-2020",
+        "description":  "Deck Gallery — WeTransfer Ideas Report 2020 — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "design-minis",
@@ -181,7 +209,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.designminis.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "design-minis",
+        "description":  "Design Minis — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "designeer-xyz",
@@ -204,7 +236,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://designeer.xyz",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "designeer-xyz",
+        "description":  "Designeer XYZ — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "faq-block",
@@ -227,7 +263,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://design.intentui.com/blocks/marketing/faq/08",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "faq-block",
+        "description":  "FAQ Block — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "gradient-background",
@@ -250,7 +290,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://backgrounds.supply/gradient-lab",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "gradient-background",
+        "description":  "Gradient Background — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "gradientool",
@@ -273,7 +317,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.gradientool.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "gradientool",
+        "description":  "GradienTool — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "icon-museum",
@@ -296,7 +344,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://icon.museum",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "icon-museum",
+        "description":  "Icon Museum — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "inspora",
@@ -319,7 +371,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.inspora.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "inspora",
+        "description":  "Inspora — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "keyline-icons-1178-free-icons",
@@ -342,7 +398,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://keylineicons.com/icons",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "keyline-icons-1178-free-icons",
+        "description":  "Keyline Icons — 1178 Free Icons — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "logoinspo",
@@ -365,7 +425,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://logoinspo.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "logoinspo",
+        "description":  "Logoinspo — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "magic-ui",
@@ -388,7 +452,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://magicui.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "magic-ui",
+        "description":  "Magic UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "minimal-gallery",
@@ -411,7 +479,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://minimal.gallery",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "minimal-gallery",
+        "description":  "Minimal Gallery — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "navbar-gallery",
@@ -434,7 +506,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.navbar.gallery",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "navbar-gallery",
+        "description":  "Navbar Gallery — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "oguz-design",
@@ -457,7 +533,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://oguz.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "oguz-design",
+        "description":  "Oguz Design — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "overflow-isometric",
@@ -480,7 +560,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.overflow.design/isometric",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "overflow-isometric",
+        "description":  "Overflow — Isometric — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "pick-a-pattern",
@@ -503,7 +587,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://tabbied.com/patterns",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "pick-a-pattern",
+        "description":  "Pick a Pattern — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "portfolio-inspiration",
@@ -526,7 +614,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://perfolios.shwn.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "portfolio-inspiration",
+        "description":  "Portfolio Inspiration — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "posts-design",
@@ -549,7 +641,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://posts.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "posts-design",
+        "description":  "Posts Design — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "pro-d2-studio-icons",
@@ -572,7 +668,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://pro.d2studio.dev/icons",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "pro-d2-studio-icons",
+        "description":  "Pro D2 Studio — Icons — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "ramp-design",
@@ -595,7 +695,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://ramp.design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "ramp-design",
+        "description":  "Ramp Design — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "save-design-explore",
@@ -618,7 +722,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://save.design/explore",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "save-design-explore",
+        "description":  "Save Design — Explore — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "save-design-explore-elements",
@@ -641,7 +749,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://save.design/explore?tab=elements",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "save-design-explore-elements",
+        "description":  "Save Design — Explore Elements — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "10zin",
@@ -664,7 +776,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.10zin.ca",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "10zin",
+        "description":  "10Zin — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "21st-dev",
@@ -687,7 +803,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://21st.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "21st-dev",
+        "description":  "21st.dev — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "aceternity-ui",
@@ -710,7 +830,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://ui.aceternity.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "aceternity-ui",
+        "description":  "Aceternity UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "agent-builder-ui",
@@ -733,7 +857,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://agent-builder-ui-one.vercel.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "agent-builder-ui",
+        "description":  "Agent Builder UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "amicro",
@@ -756,7 +884,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://amicro.vercel.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "amicro",
+        "description":  "Amicro — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "angelolibero-surface-field",
@@ -779,7 +911,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://angelolibero.github.io/surface-field",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "angelolibero-surface-field",
+        "description":  "Angelolibero — Surface Field — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "animate-ui",
@@ -802,7 +938,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://animate-ui.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "animate-ui",
+        "description":  "Animate UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "animos",
@@ -825,7 +965,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://animos.app/editor",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "animos",
+        "description":  "Animos — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "ascii-magic",
@@ -848,7 +992,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.ascii-magic.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "ascii-magic",
+        "description":  "ASCII Magic — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "be-ui",
@@ -871,7 +1019,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://beui.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "be-ui",
+        "description":  "Be UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "bencho",
@@ -894,7 +1046,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://bencho.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "bencho",
+        "description":  "Bencho — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "best-website-template-couture",
@@ -917,7 +1073,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://bestwebsitetemplate.com/templates/shopify/couture",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "best-website-template-couture",
+        "description":  "Best Website Template — Couture — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "best-website-templates-origo-studio",
@@ -940,7 +1100,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://bestwebsitetemplate.com/templates/framer/origo-studio",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "best-website-templates-origo-studio",
+        "description":  "Best Website Templates — Origo Studio — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "bryant",
@@ -963,7 +1127,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://bestwebsitetemplate.com/templates/webflow/bryant",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "bryant",
+        "description":  "Bryant — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "bund-ui",
@@ -986,7 +1154,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://bundui.io",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "bund-ui",
+        "description":  "Bund UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "campagano-rainier",
@@ -1009,7 +1181,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.campagano.com/work/rainier",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "campagano-rainier",
+        "description":  "Campagano — Rainier — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "central-sonatype-orb-motion",
@@ -1032,7 +1208,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://central.sonatype.com/artifact/io.github.valentinerutto/orbmotion",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "central-sonatype-orb-motion",
+        "description":  "Central Sonatype — ORB Motion — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "clainstone-cbirds",
@@ -1054,8 +1234,12 @@
         "status":  "needs-review",
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
-        "canonicalUrl":  "https://github.com/clainstone/cbirds",
-        "sourceFile":  "resources\\new-resources.md"
+        "canonicalUrl":  "https://github.com/clainstone/cbirds?twclid=2e0sd8655wi6drrjkzgnwro753",
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "clainstone-cbirds",
+        "description":  "Clainstone — CBirds — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "cooldock",
@@ -1078,7 +1262,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://cooldock.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "cooldock",
+        "description":  "Cooldock — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "craft-ui",
@@ -1101,7 +1289,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.craftui.space/loaders?slug=group--solar",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "craft-ui",
+        "description":  "Craft UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "css-design-awards-the-ride",
@@ -1124,7 +1316,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.cssdesignawards.com/sites/the-ride/50163",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "css-design-awards-the-ride",
+        "description":  "CSS Design Awards — The Ride — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "cult-ui",
@@ -1147,7 +1343,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.cult-ui.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "cult-ui",
+        "description":  "Cult UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "cutting-mat-background-generator",
@@ -1170,7 +1370,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://cutting-mat-generator.vercel.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "cutting-mat-background-generator",
+        "description":  "Cutting Mat Background Generator — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "destroy-spritefusion",
@@ -1193,7 +1397,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://destroy.spritefusion.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "destroy-spritefusion",
+        "description":  "Destroy — Spritefusion — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "dither-garden",
@@ -1216,7 +1424,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.dithergarden.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "dither-garden",
+        "description":  "Dither Garden — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "dither-me-this",
@@ -1239,7 +1451,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://doodad.dev/dither-me-this",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "dither-me-this",
+        "description":  "Dither Me This — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "docent-js",
@@ -1262,7 +1478,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://docentjs.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "docent-js",
+        "description":  "Docent.js — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "dot-forge",
@@ -1285,7 +1505,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://dotforge.vercel.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "dot-forge",
+        "description":  "Dot Forge — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "eve-mocks",
@@ -1308,7 +1532,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://eve-mocks.vercel.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "eve-mocks",
+        "description":  "Eve Mocks — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "forge-ui",
@@ -1331,7 +1559,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://forgeui.in",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "forge-ui",
+        "description":  "Forge UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "frontend-anthropic-design-skill",
@@ -1354,7 +1586,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.ui-skills.com/skills/anthropics/frontend-design",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "frontend-anthropic-design-skill",
+        "description":  "Frontend — Anthropic Design Skill — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "game-ui",
@@ -1377,7 +1613,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://takayustudio.jp",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "game-ui",
+        "description":  "Game UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "get-droppy",
@@ -1400,7 +1640,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://getdroppy.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "get-droppy",
+        "description":  "Get Droppy — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "getlayers-ai",
@@ -1423,7 +1667,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.getlayers.ai",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "getlayers-ai",
+        "description":  "GetLayers AI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "griflan",
@@ -1446,7 +1694,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://griflan.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "griflan",
+        "description":  "Griflan — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "halftone-maker",
@@ -1469,7 +1721,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://halftonemaker.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "halftone-maker",
+        "description":  "Halftone Maker — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "inspirectory",
@@ -1492,7 +1748,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://inspirectory.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "inspirectory",
+        "description":  "Inspirectory — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "joglo-pages",
@@ -1515,7 +1775,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://joglo.pages.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "joglo-pages",
+        "description":  "Joglo Pages — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "kaitosec",
@@ -1538,7 +1802,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://kaitosec.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "kaitosec",
+        "description":  "KaitoSec — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "kamran-candle",
@@ -1561,7 +1829,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://kamran.fyi/candle",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "kamran-candle",
+        "description":  "Kamran — Candle — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "kargul",
@@ -1584,7 +1856,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://kargul.studio",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "kargul",
+        "description":  "Kargul — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "kernel-workshop",
@@ -1606,8 +1882,12 @@
         "status":  "needs-review",
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
-        "canonicalUrl":  "https://kernelworkshop.vizuara.ai",
-        "sourceFile":  "resources\\new-resources.md"
+        "canonicalUrl":  "https://kernelworkshop.vizuara.ai/?twclid=2f39nqbfd4zs2mm21hsalga3rz",
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "kernel-workshop",
+        "description":  "Kernel Workshop — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "kinetics",
@@ -1630,7 +1910,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://kinetics.colorion.co",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "kinetics",
+        "description":  "Kinetics — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "kobra-system-react-magnetic-dropzone",
@@ -1653,7 +1937,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://kobra.systems/components/magnetic-dropzone",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "kobra-system-react-magnetic-dropzone",
+        "description":  "Kobra System — React Magnetic Dropzone — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "light-rails",
@@ -1676,7 +1964,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://light-stroke-rail.vercel.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "light-rails",
+        "description":  "Light Rails — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "loadmo",
@@ -1699,7 +1991,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://loadmo.re",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "loadmo",
+        "description":  "Loadmo — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "local-mode-ui",
@@ -1722,7 +2018,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://localmode.ai",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "local-mode-ui",
+        "description":  "Local Mode UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "logggos",
@@ -1745,7 +2045,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.logggos.club",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "logggos",
+        "description":  "Logggos — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "louis-nguyen-startup",
@@ -1768,7 +2072,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://louisnguyen.co/startup",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "louis-nguyen-startup",
+        "description":  "Louis Nguyen — Startup — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "mapcn",
@@ -1791,7 +2099,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.mapcn.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "mapcn",
+        "description":  "Mapcn — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "marinoe-to-world",
@@ -1814,7 +2126,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://marionietoworld.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "marinoe-to-world",
+        "description":  "Marinoe to World — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "metal-forge-xyz",
@@ -1837,7 +2153,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://metalforge.xyz",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "metal-forge-xyz",
+        "description":  "Metal Forge XYZ — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "microkit",
@@ -1860,7 +2180,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://microkit.co",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "microkit",
+        "description":  "Microkit — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "minifolio",
@@ -1883,7 +2207,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.minifolio.in",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "minifolio",
+        "description":  "Minifolio — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "motion-primitives",
@@ -1906,7 +2234,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://motion-primitives.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "motion-primitives",
+        "description":  "Motion Primitives — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "motioon",
@@ -1929,7 +2261,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://mtioon.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "motioon",
+        "description":  "Motioon — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "movements-dev",
@@ -1952,7 +2288,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.movements.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "movements-dev",
+        "description":  "Movements.dev — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "movulab",
@@ -1975,7 +2315,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://movulab.fun",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "movulab",
+        "description":  "Movulab — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "nalysnyk-framer",
@@ -1998,7 +2342,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://vasya-nalysnyk.framer.website",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "nalysnyk-framer",
+        "description":  "Nalysnyk Framer — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "notion-agents",
@@ -2021,7 +2369,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://apps.apple.com/us/app/notion-agents/id6759811964",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "notion-agents",
+        "description":  "Notion Agents — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "ogimage-cn",
@@ -2044,7 +2396,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.ogimagecn.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "ogimage-cn",
+        "description":  "Ogimage CN — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "ossium",
@@ -2067,7 +2423,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://ossium.in",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "ossium",
+        "description":  "Ossium — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "pointilliser",
@@ -2090,7 +2450,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://pointilliser.elwyn.co",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "pointilliser",
+        "description":  "Pointilliser — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "pro-beui-dev",
@@ -2113,7 +2477,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://pro.beui.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "pro-beui-dev",
+        "description":  "Pro BeUI Dev — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "railway-free-vm",
@@ -2136,7 +2504,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://railway.com/free-vm",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "railway-free-vm",
+        "description":  "Railway — Free VM — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "react-bits",
@@ -2159,7 +2531,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://reactbits.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "react-bits",
+        "description":  "React Bits — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "reelfolio",
@@ -2182,7 +2558,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://reelfolio.io",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "reelfolio",
+        "description":  "Reelfolio — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "search-system",
@@ -2205,7 +2585,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://searchsystem.co",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "search-system",
+        "description":  "Search System — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "seomade",
@@ -2228,7 +2612,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://seomade.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "seomade",
+        "description":  "Seomade — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "skiper-ui",
@@ -2251,7 +2639,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://skiper-ui.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "skiper-ui",
+        "description":  "Skiper UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "space-type-generator",
@@ -2274,7 +2666,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://spacetypegenerator.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "space-type-generator",
+        "description":  "Space Type Generator — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "spherium",
@@ -2297,7 +2693,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://tryspherium.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "spherium",
+        "description":  "Spherium — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "string-tune",
@@ -2320,7 +2720,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://string-tune.fiddle.digital",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "string-tune",
+        "description":  "String Tune — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "supply-made-by-oversight",
@@ -2343,7 +2747,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://supply.madebyoversight.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "supply-made-by-oversight",
+        "description":  "Supply Made By Oversight — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "tailark",
@@ -2366,7 +2774,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://tailark.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "tailark",
+        "description":  "Tailark — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "tasteful-interfaces",
@@ -2389,7 +2801,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://kombai.com/selects",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "tasteful-interfaces",
+        "description":  "Tasteful Interfaces — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "tester-army-e2e",
@@ -2412,7 +2828,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://tester.army/e2e",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "tester-army-e2e",
+        "description":  "Tester Army — E2E — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "ui-arc",
@@ -2435,7 +2855,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://uiarc.dev",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "ui-arc",
+        "description":  "UI Arc — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "ui-verse",
@@ -2458,7 +2882,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://uiverse.io",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "ui-verse",
+        "description":  "UI Verse — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "umanmade",
@@ -2481,7 +2909,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.umanmade.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "umanmade",
+        "description":  "Umanmade — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "unique-transition",
@@ -2504,7 +2936,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://unique-transition-between-grid-and.vercel.app",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "unique-transition",
+        "description":  "Unique Transition — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "urbanly",
@@ -2527,7 +2963,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://urbanly.org",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "urbanly",
+        "description":  "Urbanly — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "vector-halftone-maker",
@@ -2550,7 +2990,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://halftone.xoihazard.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "vector-halftone-maker",
+        "description":  "Vector Halftone Maker — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "wieslaw-soltes-pdfspace",
@@ -2573,7 +3017,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://wieslawsoltes.github.io/PdfSpace",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "wieslaw-soltes-pdfspace",
+        "description":  "Wieslaw Soltes — PdfSpace — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "zoah",
@@ -2596,7 +3044,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://zoah.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "zoah",
+        "description":  "Zoah — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "book-of-shapes",
@@ -2619,7 +3071,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://bookofshapes.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "book-of-shapes",
+        "description":  "Book of Shapes — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "evil-charts",
@@ -2642,7 +3098,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://evilcharts.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "evil-charts",
+        "description":  "Evil Charts — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "generative-charts",
@@ -2665,7 +3125,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://generativecharts.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "generative-charts",
+        "description":  "Generative Charts — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "ide-extension-shadcn-ui",
@@ -2688,7 +3152,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.shadcnblocks.com/ide-extension",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "ide-extension-shadcn-ui",
+        "description":  "IDE Extension — Shadcn UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "shad-cn-ui-admin-dashboard",
@@ -2711,7 +3179,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.shadcnblocks.com/admin-dashboard",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "shad-cn-ui-admin-dashboard",
+        "description":  "Shad CN UI — Admin Dashboard — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "shadcn-app-shell",
@@ -2734,7 +3206,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://reui.io/blocks/application/app-shell",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "shadcn-app-shell",
+        "description":  "Shadcn App Shell — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "shadcn-registry-directory",
@@ -2757,7 +3233,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://shoogle.dev/directory",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "shadcn-registry-directory",
+        "description":  "Shadcn Registry Directory — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "shadcn-ui",
@@ -2780,7 +3260,11 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://ui.shadcn.com",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "shadcn-ui",
+        "description":  "ShadCN UI — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     },
     {
         "id":  "swift-ux-app-membership-card-paywall",
@@ -2803,6 +3287,10 @@
         "lastVerified":  "",
         "contributor":  "mahi-developer-universe",
         "canonicalUrl":  "https://www.swiftux.app/uicomponents/membership-card-paywall",
-        "sourceFile":  "resources\\new-resources.md"
+        "sourceFile":  "resources\\new-resources.md",
+        "slug":  "swift-ux-app-membership-card-paywall",
+        "description":  "Swift UX App — Membership Card Paywall — curated resource for developers and designers.",
+        "httpStatus":  "",
+        "redirectUrl":  ""
     }
 ]
