@@ -1,96 +1,52 @@
-﻿# Mahi UI Verse — Complete Audit
+﻿# Mahi UI Verse - Complete Audit
 
-Generated: 2026-10-03 21:18:22
+Generated: 2026-10-03 21:38:25
 
 ## Registry
 
-| Metric | Count |
-|---|---:|
-| Registry resources | 122 |
-| Duplicate IDs | 0 |
-| Duplicate canonical URLs | 0 |
-| Duplicate names | 0 |
-| Missing required fields | 0 |
-| Schema mismatches | 488 |
-| Needs review | 122 |
-| Unknown pricing | 122 |
-| Unknown licenses | 122 |
-| Missing demos | 122 |
-| Missing documentation | 122 |
-| Missing GitHub | 122 |
-| Missing videos | 122 |
-| Not verified | 122 |
-| README missing files | 0 |
-| CI gaps | 6 |
+Total resources: 122
 
-## Categories
+## Duplicate Detection
 
-| Category | Count |
-|---|---:|
-| frontend | 85 |
-| design | 28 |
-| ui | 7 |
-| ux | 1 |
-| learning | 1 |
+Duplicate IDs: 0
+Duplicate names: 0
+Duplicate canonical URLs: 0
 
-## Resource Types
+## Missing Metadata
 
-| Type | Count |
-|---|---:|
-| website | 99 |
-| inspiration | 5 |
-| generator | 4 |
-| animation | 3 |
-| template | 3 |
-| icon | 3 |
-| component-library | 2 |
-| chart | 2 |
-| portfolio | 1 |
+Missing required fields: 1464
 
-## Priority
+## Enrichment
 
-### P0 — Fix before adding hundreds of resources
+Resources requiring enrichment: 122
 
-- Remove confirmed duplicate resources
-- Resolve registry/schema mismatch
-- Make JSON registry canonical
-- Fix CI validation pipeline
-- Normalize canonical URLs
+## Review
 
-### P1 — Data quality
+Resources requiring pricing/license/status review: 122
 
-- Verify URLs
-- Verify redirects
-- Verify licenses
-- Verify pricing
-- Add lastVerified
-- Add descriptions
-- Add demos
-- Add documentation
-- Add GitHub links
-- Add videos
+## CI
 
-### P2 — Product
+Missing workflow checks: 6
 
-- Search
-- Filters
-- Resource detail pages
-- Favorites
-- Collections
-- Random
-- Featured
-- Trending
+## Future Enhancements
 
-### P3 — Scale
+Total planned enhancements: 45
 
-- 250 verified resources
-- 500 verified resources
-- 750 verified resources
-- 1000+ verified resources
+## Important
 
-## Audit files
+This audit does not automatically delete duplicate resources.
 
-- `reports/duplicates/`
-- `reports/missing/`
-- `reports/audit/`
-- `reports/future/`
+Review duplicate reports before removing anything.
+
+## Recommended Architecture
+
+resources.json
+    |
+    +-- README
+    +-- category pages
+    +-- website
+    +-- API
+    +-- statistics
+    +-- search
+
+resources.json should remain the canonical source of truth.
