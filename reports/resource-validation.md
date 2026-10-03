@@ -1,14 +1,15 @@
 ﻿# Resource Validation Report
 
-Generated: 2026-10-03 20:32:18
+Generated: 2026-10-03 20:49:04
 
-- Markdown files scanned: 42
+- Markdown files scanned: 52
 - Errors: 0
-- Warnings: 0
+- Warnings: 2
 
 ## Findings
 
-No issues detected by these checks.
+- **WARNING** — `guides\resource-quality-policy.md:62` — Possible placeholder: https://example.com/components
+- **WARNING** — `guides\resource-quality-policy.md:64` — Possible placeholder: https://example.com/templates
 
 ## Limitations
 

@@ -1,32 +1,27 @@
 ﻿# Security Policy
 
-## Supported Versions
+Mahi UI Verse is primarily a static resource directory.
 
-Security fixes are prioritized for the latest version on the default branch.
+## Report
 
-## Reporting a Vulnerability
+Please report:
 
-Please do not report exploitable vulnerabilities in public issues.
+- malicious URLs
+- phishing resources
+- compromised websites
+- suspicious downloads
+- malicious repositories
+- security-sensitive content
 
-Use GitHub's private vulnerability reporting feature when it is
-available for this repository. Otherwise, contact the repository
-maintainer privately through their verified GitHub profile.
+## Do not
 
-Include:
-- A clear description of the vulnerability
-- Steps to reproduce the issue
-- Potential impact
-- Relevant logs or screenshots with secrets and personal data removed
+Do not include credentials, secrets, tokens or private information.
 
-Do not access, modify, or disclose other people's data.
-Do not perform destructive testing or denial-of-service attacks.
+## Repository security
 
-## Response Expectations
+Automated workflows should use:
 
-The maintainer will review reports as time and availability permit.
-Please allow time for investigation and remediation before disclosure.
-
-## Scope
-
-This policy covers this repository, its scripts, documentation,
-automation, and any project code maintained here.
+- least privilege
+- read-only permissions where possible
+- pinned major actions
+- dependency monitoring

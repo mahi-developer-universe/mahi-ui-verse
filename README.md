@@ -1,4 +1,4 @@
-﻿# Mahi UI Verse 🚀
+# Mahi UI Verse 🚀
 
 A curated collection of UI/UX websites, component libraries, animations, design tools, website inspiration, and frontend developer resources.
 
@@ -69,4 +69,4 @@ Maintained by **Maheswari Pinneti** | Frontend Developer
 
 ### New Resource Collection
 
-- [130 New UI/UX, Frontend & Design Resources](resources/new-resources.md)
+- [130 UI/UX, Frontend & Design Resources](resources/new-resources.md)

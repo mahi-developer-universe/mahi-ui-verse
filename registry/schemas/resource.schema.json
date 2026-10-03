@@ -1,0 +1,93 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mahi UI Verse Resource",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "slug",
+    "category",
+    "type",
+    "website",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "subcategory": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "demo": {
+      "type": "string"
+    },
+    "documentation": {
+      "type": "string"
+    },
+    "github": {
+      "type": "string"
+    },
+    "video": {
+      "type": "string"
+    },
+    "framework": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "technology": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "pricing": {
+      "type": "string"
+    },
+    "license": {
+      "type": "string"
+    },
+    "openSource": {
+      "type": "boolean"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "status": {
+      "type": "string"
+    },
+    "httpStatus": {},
+    "redirectUrl": {
+      "type": "string"
+    },
+    "lastVerified": {
+      "type": "string"
+    },
+    "contributor": {
+      "type": "string"
+    }
+  }
+}

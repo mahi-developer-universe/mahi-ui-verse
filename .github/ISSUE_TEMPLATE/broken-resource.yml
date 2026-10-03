@@ -1,0 +1,29 @@
+﻿name: Broken Resource
+description: Report a broken or unavailable resource
+title: "[Broken Resource]: "
+labels:
+  - broken-link
+
+body:
+
+  - type: input
+    id: resource
+    attributes:
+      label: Resource Name
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      placeholder: Explain what is broken.
+    validations:
+      required: true
