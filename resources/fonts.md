@@ -1,4 +1,4 @@
-﻿# Fonts and Typography
+# Fonts and Typography
 
 | Resource | URL | Use |
 |---|---|---|
@@ -8,5 +8,4 @@
 | Fontsource | https://fontsource.org/ | Self-hostable web fonts |
 | Bunny Fonts | https://fonts.bunny.net/ | Privacy-focused font delivery |
 | Velvetyne | https://velvetyne.fr/ | Open-source typefaces |
-| Type Scale | https://typescale.com/ | Typography scale planning |
-| Typescale | https://typescale.com/ | Type scale preview |
+| Type Scale | https://typescale.com/ | Typography scale planning and preview |

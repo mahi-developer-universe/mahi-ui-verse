@@ -80,5 +80,5 @@ Maintained by **Maheswari Pinneti** | Frontend Developer
 
 ### Resource Collections
 
-- [137 UI/UX, Frontend & Design Resources](resources/new-resources.md)
+- [129 UI/UX, Frontend & Design Resources](resources/new-resources.md)
 - [347+ Curated Design Inspiration Sites](inspiration/design-inspiration.md)
