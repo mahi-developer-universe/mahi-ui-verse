@@ -17,6 +17,7 @@ A curated collection of UI/UX websites, component libraries, animations, design 
 | CSS | [Open list](frontend/css.md) |
 | JavaScript | [Open list](frontend/javascript.md) |
 | Developer Tools | [Open list](frontend/developer-tools.md) |
+| Design Inspiration | [Open directory (347+ sites)](inspiration/design-inspiration.md) |
 | Website Inspiration | [Open list](inspiration/website-inspiration.md) |
 | Portfolio Inspiration | [Open list](inspiration/portfolio-inspiration.md) |
 | Icons | [Open list](resources/icons.md) |
@@ -77,6 +78,7 @@ Help expand this directory by adding useful resources, removing duplicate URLs, 
 
 Maintained by **Maheswari Pinneti** | Frontend Developer
 
-### New Resource Collection
+### Resource Collections
 
 - [137 UI/UX, Frontend & Design Resources](resources/new-resources.md)
+- [347+ Curated Design Inspiration Sites](inspiration/design-inspiration.md)

@@ -1,4 +1,4 @@
-﻿# Categories
+# Categories
 
 ## UI
 
@@ -26,6 +26,7 @@
 
 ## Inspiration
 
+- [Design Inspiration (347+ Directory)](../inspiration/design-inspiration.md)
 - [Website Inspiration](../inspiration/website-inspiration.md)
 - [Portfolio Inspiration](../inspiration/portfolio-inspiration.md)
 - [Landing Pages](../inspiration/landing-pages.md)

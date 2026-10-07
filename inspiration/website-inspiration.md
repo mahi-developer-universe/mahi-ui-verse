@@ -1,4 +1,4 @@
-﻿# Website Inspiration
+# Website Inspiration
 
 | Resource | URL | Focus |
 |---|---|---|
@@ -10,3 +10,5 @@
 | One Page Love | https://onepagelove.com/ | One-page websites |
 | Land-book | https://land-book.com/ | Landing pages |
 | Lapa Ninja | https://www.lapa.ninja/ | Landing-page inspiration |
+
+For the complete collection of 347+ curated design inspiration sites across 12 categories, see the [Design Inspiration Master Directory](design-inspiration.md).
