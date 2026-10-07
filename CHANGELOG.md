@@ -1,4 +1,4 @@
-﻿# Changelog
+# Changelog
 
 ## Unreleased
 
@@ -11,8 +11,9 @@
 - UI category structure
 - UX category structure
 - Frontend category structure
-- Design category structure
 - Inspiration category structure
+- 347+ Curated Design Inspiration directory across 12 categories
+- Developer Learning & Practice / Games resources
 - Learning category structure
 - Duplicate URL auditing
 - Duplicate name auditing
