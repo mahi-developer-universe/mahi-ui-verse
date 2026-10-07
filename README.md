@@ -43,6 +43,16 @@ A curated collection of UI/UX websites, component libraries, animations, design 
 - [Motion Primitives](https://motion-primitives.com/)
 - [React Bits](https://reactbits.dev/)
 
+## Developer Learning & Practice / Games
+
+- [Mahi Tools](https://markodenic.com/tools/) — Developer tools and utilities
+- [Oh My Git!](https://ohmygit.org/) — An open source game about learning Git
+- [K8s Games](https://k8sgames.com/) — Interactive Kubernetes learning challenges
+- [OverTheWire Wargames](https://overthewire.org/wargames/) — Security concepts and command-line wargames
+- [CodeCombat](https://codecombat.com/) — Game-based computer science and programming
+- [DevOps Games](https://devops.games/) — Interactive games and puzzles for DevOps skills
+- [picoCTF](https://picoctf.org/) — Gamified cybersecurity and CTF training platform
+
 ## How to Use
 
 1. Open a category.
@@ -69,4 +79,4 @@ Maintained by **Maheswari Pinneti** | Frontend Developer
 
 ### New Resource Collection
 
-- [130 UI/UX, Frontend & Design Resources](resources/new-resources.md)
+- [137 UI/UX, Frontend & Design Resources](resources/new-resources.md)

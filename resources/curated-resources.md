@@ -1,4 +1,4 @@
-﻿# Curated UI/UX and Frontend Resources
+# Curated UI/UX and Frontend Resources
 
 A growing directory of tools, libraries, inspiration, and learning resources.
 
@@ -16,6 +16,18 @@ A growing directory of tools, libraries, inspiration, and learning resources.
 | Magic UI | Animated components | https://magicui.design/ | Visit the official site |
 | Motion Primitives | Motion components | https://motion-primitives.com/ | Visit the official site |
 | React Bits | React components and animations | https://reactbits.dev/ | Visit the official site |
+
+## Developer Learning & Practice / Games
+
+| Resource | Category | Official website | Demo / documentation |
+|---|---|---|---|
+| Mahi Tools | Developer tools | https://markodenic.com/tools/ | Visit the official site |
+| Oh My Git! | Learning games / Git | https://ohmygit.org/ | Visit the official site |
+| K8s Games | Learning games / DevOps | https://k8sgames.com/ | Visit the official site |
+| OverTheWire Wargames | Learning games / Security | https://overthewire.org/wargames/ | Visit the official site |
+| CodeCombat | Learning games / Coding | https://codecombat.com/ | Visit the official site |
+| DevOps Games | Learning games / DevOps | https://devops.games/ | Visit the official site |
+| picoCTF | Learning games / Cybersecurity | https://picoctf.org/ | Visit the official site |
 
 ## Resource entry standard
 

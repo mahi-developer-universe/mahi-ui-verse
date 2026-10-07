@@ -1,4 +1,4 @@
-﻿# Frontend Developer Tools
+# Frontend Developer Tools
 
 | Resource | URL | Use |
 |---|---|---|
@@ -11,3 +11,10 @@
 | Vitest | https://vitest.dev/ | Frontend testing |
 | Bundlephobia | https://bundlephobia.com/ | Package size analysis |
 | npm | https://www.npmjs.com/ | JavaScript packages |
+| Mahi Tools | https://markodenic.com/tools/ | Developer tools and utilities |
+| Oh My Git! | https://ohmygit.org/ | Interactive git learning game |
+| K8s Games | https://k8sgames.com/ | Kubernetes interactive games and challenges |
+| OverTheWire Wargames | https://overthewire.org/wargames/ | Security and command-line learning wargames |
+| CodeCombat | https://codecombat.com/ | Coding games for web development & programming |
+| DevOps Games | https://devops.games/ | Interactive DevOps simulations and challenges |
+| picoCTF | https://picoctf.org/ | Cybersecurity and CTF learning platform |

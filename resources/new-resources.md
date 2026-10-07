@@ -1,4 +1,4 @@
-﻿# New UI/UX & Frontend Resources
+# New UI/UX & Frontend Resources
 
 A curated collection of additional UI, UX, frontend, design, animation, developer, inspiration, and creative resources.
 
@@ -138,3 +138,10 @@ A curated collection of additional UI, UX, frontend, design, animation, develope
 128. **Best Design Sonx** — https://bestdesignsonx.com/
 129. **Wieslaw Soltes — PdfSpace** — https://wieslawsoltes.github.io/PdfSpace/
 130. **Zoah** — https://zoah.com/
+131. **Mahi Tools** — https://markodenic.com/tools/
+132. **Oh My Git!** — https://ohmygit.org/
+133. **K8s Games** — https://k8sgames.com/
+134. **OverTheWire Wargames** — https://overthewire.org/wargames/
+135. **CodeCombat** — https://codecombat.com/
+136. **DevOps Games** — https://devops.games/
+137. **picoCTF** — https://picoctf.org/
