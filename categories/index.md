@@ -9,9 +9,20 @@
 - [Templates](../ui/templates.md)
 - [UI Generators](../ui/ui-generators.md)
 
+- [Web Design Showcases & Awards](../ui/web-showcases.md)
+- [Landing Pages & SaaS](../ui/landing-pages.md)
+- [Portfolios & Showcases](../ui/portfolios.md)
+- [Creative Tools & Utilities](../ui/creative-tools.md)
+- [Marketing & Pitch Decks](../ui/marketing-ui.md)
+- [Motion Design & 3D Experiences](../ui/motion-design.md)
+- [Branding & Identity](../ui/branding-design.md)
+- [Mobile & App Design](../ui/mobile-design.md)
+- [UI Patterns & Elements](../ui/ui-patterns.md)
+
 ## UX
 
 - [UX Tools](../ux/ux-tools.md)
+- [UX User Flows & Case Studies](../ux/ux-flows.md)
 - [Wireframing](../ux/wireframing.md)
 - [Prototyping](../ux/prototyping.md)
 - [User Research](../ux/user-research.md)
@@ -28,13 +39,6 @@
 - [State Management](../frontend/state-management.md)
 - [Developer Tools](../frontend/developer-tools.md)
 - [Libraries](../frontend/libraries.md)
-
-## Inspiration
-
-- [Design Inspiration (347+ Directory)](../inspiration/design-inspiration.md)
-- [Website Inspiration](../inspiration/website-inspiration.md)
-- [Portfolio Inspiration](../inspiration/portfolio-inspiration.md)
-- [Landing Pages](../inspiration/landing-pages.md)
 
 ## Resources
 

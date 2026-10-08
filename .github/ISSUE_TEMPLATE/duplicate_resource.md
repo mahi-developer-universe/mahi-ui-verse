@@ -14,7 +14,7 @@ assignees: []
 - **Resource 2**: 
   - Name: 
   - URL: 
-  - Location: (e.g. `inspiration/design-inspiration.md:120`)
+  - Location: (e.g. `ui/web-showcases.md:120`)
 
 ### Nature of Duplicate
 - [ ] Exact identical URL

@@ -28,7 +28,7 @@ Used in [resources/website-directory.md](../resources/website-directory.md) and 
 - Avoid raw untagged URLs.
 
 ### B. Markdown Table Format
-Used in category files (e.g., `ui/`, `ux/`, `inspiration/`, `frontend/`):
+Used in category files (e.g., `ui/`, `ux/`, `frontend/`, `resources/`):
 
 ```markdown
 | Resource | URL | Description |

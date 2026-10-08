@@ -1,8 +1,8 @@
 ﻿# Resource Validation Report
 
-Generated: 2026-10-08 21:59:59
+Generated: 2026-10-08 22:16:47
 
-- Markdown files scanned: 104
+- Markdown files scanned: 109
 - Errors: 0
 - Warnings: 13
 

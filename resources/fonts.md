@@ -11,3 +11,4 @@
 | Type Scale | https://typescale.com/ | Typography scale planning and preview |
 | Space Type Generator | https://spacetypegenerator.com/ | Kinetic typography studio and animated type generator |
 | String Tune | https://string-tune.fiddle.digital/ | Interactive audio-visual typography tool and responsive letterform tuner |
+| Fonts In Use | https://fontsinuse.com | An archive of typography in the real world, by use |

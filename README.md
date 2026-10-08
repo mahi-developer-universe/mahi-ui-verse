@@ -33,9 +33,16 @@ A curated collection of UI/UX websites, component libraries, animations, design 
 | AI Developer Tools | [Open list](resources/ai-tools.md) |
 | Git & GitHub | [Open list](resources/git-github.md) |
 | DevOps & Cloud | [Open list](resources/devops.md) |
-| Design Inspiration | [Open directory (347+ sites)](inspiration/design-inspiration.md) |
-| Website Inspiration | [Open list](inspiration/website-inspiration.md) |
-| Portfolio Inspiration | [Open list](inspiration/portfolio-inspiration.md) |
+| Web Design Showcases | [Open list (247+ sites)](ui/web-showcases.md) |
+| Landing Pages | [Open list](ui/landing-pages.md) |
+| Portfolios & Showcases | [Open list](ui/portfolios.md) |
+| Creative Tools & Utilities | [Open list](ui/creative-tools.md) |
+| Marketing & Pitch Decks | [Open list](ui/marketing-ui.md) |
+| Motion & 3D Design | [Open list](ui/motion-design.md) |
+| Branding & Identity | [Open list](ui/branding-design.md) |
+| Mobile & App Design | [Open list](ui/mobile-design.md) |
+| UI Patterns | [Open list](ui/ui-patterns.md) |
+| UX User Flows | [Open list](ux/ux-flows.md) |
 | Icons | [Open list](resources/icons.md) |
 | Fonts | [Open list](resources/fonts.md) |
 | Illustrations | [Open list](resources/illustrations.md) |
@@ -115,5 +122,5 @@ Maintained by **Maheswari Pinneti** | Frontend Developer
 - [458 Canonical Resource Catalog (Categorized)](resources/new-resources.md)
 - [Canonical Resource Registry (JSON)](registry/resources.json)
 - [Canonical Resource Registry (CSV)](registry/resources.csv)
-- [347+ Curated Design Inspiration Sites](inspiration/design-inspiration.md)
+- [247+ Curated Web Design Showcases & Awards](ui/web-showcases.md)
 
