@@ -6,9 +6,9 @@ Thank you for using and contributing to **Mahi UI Verse**! This document provide
 
 Since Mahi UI Verse is an open-source curated directory of UI/UX and frontend resources:
 
-- **Resource Inquiries & Suggestions**: If you are looking for specific resources, design libraries, or component tools that aren't currently listed, please open a [Resource Request](https://github.com/mahi-developer-universe/mahi-ui-verse/issues/new?template=resource_request.md).
-- **Broken Links & Outdated Information**: If a site is down, migrated, or requires updated links, submit a [Broken Link Report](https://github.com/mahi-developer-universe/mahi-ui-verse/issues/new?template=broken_link.md).
-- **Duplicate Entries**: If you detect duplicate URLs or conflicting naming, submit a [Duplicate Resource Issue](https://github.com/mahi-developer-universe/mahi-ui-verse/issues/new?template=duplicate_resource.md).
+- **Resource Inquiries & Suggestions**: If you are looking for specific resources, design libraries, or component tools that aren't currently listed, please open a [Resource Request](https://github.com/mahi-developer-universe/mahi-ui-verse/issues/new?template=resource-request.yml).
+- **Broken Links & Outdated Information**: If a site is down, migrated, or requires updated links, submit a [Broken Link Report](https://github.com/mahi-developer-universe/mahi-ui-verse/issues/new?template=broken-resource.yml).
+- **Duplicate Entries**: If you detect duplicate URLs or conflicting naming, submit a [Duplicate Resource Issue](https://github.com/mahi-developer-universe/mahi-ui-verse/issues/new?template=duplicate-resource.yml).
 - **General Questions & Discussions**: For general questions regarding repository structure or frontend best practices, open an issue labeled `question` or participate in GitHub Discussions.
 
 ## Scope of Support

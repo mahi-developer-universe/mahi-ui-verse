@@ -1,6 +1,14 @@
 # Mahi UI Verse 🚀
 
-A curated collection of UI/UX websites, component libraries, animations, design tools, website inspiration, and frontend developer resources.
+[![Resources](https://img.shields.io/badge/Resources-458%20Curated-blue.svg)](resources/website-directory.md)
+[![Registry](https://img.shields.io/badge/Registry-458%20Verified-brightgreen.svg)](registry/resources.json)
+[![Markdown Validation](https://img.shields.io/badge/Markdown-0%20Errors-success.svg)](reports/resource-validation.md)
+[![Metadata Validation](https://img.shields.io/badge/Metadata-Valid-success.svg)](reports/metadata-validation.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Security: Gitleaks](https://img.shields.io/badge/Security-Gitleaks%20Passing-blueviolet.svg)](security/SECURITY-CHECKLIST.md)
+
+A curated collection of UI/UX websites, component libraries, animations, design tools, website inspiration, and frontend developer resources for developers and designers.
+
 
 ## Browse Resources
 
@@ -104,5 +112,8 @@ Maintained by **Maheswari Pinneti** | Frontend Developer
 ### Resource Collections
 
 - [458 Master Resource Directory (Alphabetical)](resources/website-directory.md)
-- [129 UI/UX, Frontend & Design Resources](resources/new-resources.md)
+- [458 Canonical Resource Catalog (Categorized)](resources/new-resources.md)
+- [Canonical Resource Registry (JSON)](registry/resources.json)
+- [Canonical Resource Registry (CSV)](registry/resources.csv)
 - [347+ Curated Design Inspiration Sites](inspiration/design-inspiration.md)
+

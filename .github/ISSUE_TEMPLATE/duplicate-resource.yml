@@ -1,0 +1,39 @@
+name: Duplicate Resource Report
+description: Report duplicate URLs, repeated entries, or conflicting naming in the directory
+title: "[Duplicate Resource]: "
+labels:
+  - duplicate
+
+body:
+
+  - type: input
+    id: resource
+    attributes:
+      label: Resource Name(s)
+      placeholder: E.g., Resource Name or URL
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Duplicate URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+
+  - type: textarea
+    id: files
+    attributes:
+      label: Locations Found
+      placeholder: List the files or line numbers where the duplicate appears (e.g. resources/website-directory.md, ui/component-libraries.md).
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Recommended Resolution
+      placeholder: Specify which entry should be retained and which should be removed or merged.
+    validations:
+      required: false

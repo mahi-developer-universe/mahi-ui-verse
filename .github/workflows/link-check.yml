@@ -28,6 +28,6 @@ jobs:
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: broken-links-report
-          path: reports/broken-links.*
+          name: link-health-report
+          path: reports/health/link-health.*
           if-no-files-found: ignore

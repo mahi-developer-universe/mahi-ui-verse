@@ -1,4 +1,8 @@
-﻿$ErrorActionPreference = "SilentlyContinue"
+param(
+    [switch]$FailOnBroken
+)
+
+$ErrorActionPreference = "SilentlyContinue"
 
 $Root = Split-Path -Parent $PSScriptRoot
 
@@ -109,6 +113,16 @@ foreach ($Item in $Summary) {
 $Report -join "`n" |
     Set-Content "$Root\reports\health\link-health.md" -Encoding UTF8
 
+$BrokenCount = ($Results | Where-Object { $_.Status -eq "ERROR" -or $_.Status -ge 400 }).Count
+
 Write-Host ""
 Write-Host "LINK HEALTH COMPLETE" -ForegroundColor Green
+Write-Host "Total checked: $($Results.Count)"
+Write-Host "Broken / error links: $BrokenCount"
 Write-Host ""
+
+if ($FailOnBroken -and $BrokenCount -gt 0) {
+    Write-Error "Link health check failed: $BrokenCount broken or unreachable links encountered."
+    exit 1
+}
+
