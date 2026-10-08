@@ -1,6 +1,14 @@
 ﻿{
-    "TotalEntries":  458,
-    "UniqueNames":  458,
+    "TotalResources":  458,
+    "Categories":  5,
+    "Subcategories":  16,
+    "OpenSource":  5,
+    "Free":  447,
+    "Paid":  6,
+    "WithGithub":  null,
+    "WithDemo":  458,
+    "WithVideo":  0,
+    "Active":  458,
     "DuplicateNames":  0,
-    "Generated":  "2026-10-08 21:57:02"
+    "Generated":  "2026-10-08 22:00:00"
 }

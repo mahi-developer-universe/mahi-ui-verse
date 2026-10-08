@@ -71,7 +71,14 @@ jobs:
         shell: pwsh
         run: |
           if (Test-Path "./scripts/validate-metadata.ps1") {
-            ./scripts/validate-metadata.ps1
+            ./scripts/validate-metadata.ps1 -Strict
+          }
+
+      - name: Validate registry synchronization
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/validate-registry-sync.ps1") {
+            ./scripts/validate-registry-sync.ps1 -Strict
           }
 
       - name: Find duplicates

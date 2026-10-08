@@ -1,47 +1,42 @@
-﻿$ErrorActionPreference = "Stop"
+$ErrorActionPreference = "Stop"
 
 $Root = Split-Path -Parent $PSScriptRoot
+$RegistryJsonPath = Join-Path $Root "registry\resources.json"
 
-$Files = Get-ChildItem "$Root\resources" -Recurse -Filter "*.md" |
-    Where-Object {
-        $_.FullName -notmatch "\\reports\\" -and
-        $_.FullName -notmatch "\\.git\\"
-    }
-
-$Entries = @()
-
-foreach ($File in $Files) {
-
-    $Lines = Get-Content $File.FullName
-
-    foreach ($Line in $Lines) {
-
-        if ($Line -match '^\s*(\d+)\.\s+\*\*(.+?)\*\*') {
-
-            $Entries += [PSCustomObject]@{
-                Name = $Matches[2].Trim()
-                File = $File.FullName.Replace($Root, "").TrimStart('\')
-            }
-        }
-    }
+$Registry = @()
+if (Test-Path $RegistryJsonPath) {
+    $Raw = Get-Content -LiteralPath $RegistryJsonPath -Raw -Encoding UTF8
+    $Registry = ConvertFrom-Json $Raw
 }
 
-$Grouped = $Entries |
-    Group-Object Name |
-    Sort-Object Name
+$Total = $Registry.Count
+$Categories = ($Registry | Group-Object category).Count
+$Subcategories = ($Registry | Group-Object subcategory).Count
+$Free = ($Registry | Where-Object { $_.pricing -eq "free" }).Count
+$Paid = ($Registry | Where-Object { $_.pricing -eq "paid" -or $_.pricing -eq "freemium" -or $_.pricing -eq "commercial" }).Count
+$OpenSource = ($Registry | Where-Object { $_.openSource -eq $true }).Count
+$WithGithub = ($Registry | Where-Object { -not [string]::IsNullOrWhiteSpace($_.github) }).Count
+$WithDemo = ($Registry | Where-Object { -not [string]::IsNullOrWhiteSpace($_.demo) }).Count
+$WithVideo = ($Registry | Where-Object { -not [string]::IsNullOrWhiteSpace($_.video) }).Count
+$Active = ($Registry | Where-Object { $_.status -eq "active" }).Count
 
-$Duplicates = $Grouped |
-    Where-Object Count -gt 1
-
-$Total = $Entries.Count
-$Unique = $Grouped.Count
-$DuplicateNames = $Duplicates.Count
+# Check for duplicate IDs or Names in registry
+$GroupedNames = $Registry | Group-Object name
+$DuplicateNames = ($GroupedNames | Where-Object Count -gt 1).Count
 
 $Stats = [PSCustomObject]@{
-    TotalEntries = $Total
-    UniqueNames = $Unique
-    DuplicateNames = $DuplicateNames
-    Generated = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
+    TotalResources    = $Total
+    Categories        = $Categories
+    Subcategories     = $Subcategories
+    OpenSource        = $OpenSource
+    Free              = $Free
+    Paid              = $Paid
+    WithGithub        = $WithGithub
+    WithDemo          = $WithDemo
+    WithVideo         = $WithVideo
+    Active            = $Active
+    DuplicateNames    = $DuplicateNames
+    Generated         = (Get-Date -Format "yyyy-MM-dd HH:mm:ss")
 }
 
 New-Item -ItemType Directory -Force "$Root\reports" | Out-Null
@@ -57,32 +52,31 @@ $Report = @(
     ""
     "| Metric | Count |"
     "|---|---:|"
-    "| Total entries | $Total |"
-    "| Unique names | $Unique |"
-    "| Duplicate names | $DuplicateNames |"
+    "| Total Resources | $Total |"
+    "| Categories | $Categories |"
+    "| Subcategories | $Subcategories |"
+    "| Open Source Resources | $OpenSource |"
+    "| Free Resources | $Free |"
+    "| Commercial / Freemium / Paid | $Paid |"
+    "| Resources with GitHub Repositories | $WithGithub |"
+    "| Resources with Interactive Demos | $WithDemo |"
+    "| Resources with Video Links | $WithVideo |"
+    "| Active Status Resources | $Active |"
+    "| Duplicate Names | $DuplicateNames |"
     ""
 )
-
-if ($Duplicates.Count -gt 0) {
-
-    $Report += "## Duplicate Names"
-    $Report += ""
-
-    foreach ($Duplicate in $Duplicates) {
-        $Report += "- **$($Duplicate.Name)** — $($Duplicate.Count) occurrences"
-
-        foreach ($Item in $Duplicate.Group) {
-            $Report += "  - $($Item.File)"
-        }
-    }
-}
 
 $Report -join "`n" |
     Set-Content "$Root\reports\resource-stats.md" -Encoding UTF8
 
 Write-Host ""
-Write-Host "RESOURCE STATISTICS" -ForegroundColor Cyan
-Write-Host "Total entries : $Total"
-Write-Host "Unique names  : $Unique" -ForegroundColor Green
-Write-Host "Duplicate names: $DuplicateNames" -ForegroundColor Yellow
+Write-Host "CANONICAL RESOURCE STATISTICS" -ForegroundColor Cyan
+Write-Host "Total Resources : $Total" -ForegroundColor Green
+Write-Host "Categories      : $Categories"
+Write-Host "Open Source     : $OpenSource"
+Write-Host "Free            : $Free"
+Write-Host "Paid/Freemium   : $Paid"
+Write-Host "With GitHub     : $WithGithub"
+Write-Host "With Demo       : $WithDemo"
+Write-Host "Duplicate names : $DuplicateNames" -ForegroundColor $(if ($DuplicateNames -eq 0) { "Green" } else { "Yellow" })
 Write-Host ""
