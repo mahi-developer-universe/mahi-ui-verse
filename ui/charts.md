@@ -11,3 +11,4 @@
 | D3.js | https://d3js.org/ | Data-driven documents |
 | Observable Plot | https://observablehq.com/plot/ | Visualization library |
 | Vega-Lite | https://vega.github.io/vega-lite/ | Declarative visualization |
+| Generative Charts | https://generativecharts.com/ | Creative algorithmic, generative, and data visualization chart generator |

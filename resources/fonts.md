@@ -9,3 +9,5 @@
 | Bunny Fonts | https://fonts.bunny.net/ | Privacy-focused font delivery |
 | Velvetyne | https://velvetyne.fr/ | Open-source typefaces |
 | Type Scale | https://typescale.com/ | Typography scale planning and preview |
+| Space Type Generator | https://spacetypegenerator.com/ | Kinetic typography studio and animated type generator |
+| String Tune | https://string-tune.fiddle.digital/ | Interactive audio-visual typography tool and responsive letterform tuner |

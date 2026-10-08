@@ -1,0 +1,30 @@
+name: Markdown Check
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.md"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "**/*.md"
+  workflow_dispatch:
+
+jobs:
+  markdown-lint:
+    name: Validate Markdown
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Validate Markdown Resources
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/validate-resources.ps1") {
+            ./scripts/validate-resources.ps1 -Strict
+          }

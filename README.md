@@ -14,9 +14,17 @@ A curated collection of UI/UX websites, component libraries, animations, design 
 | Templates | [Open list](ui/templates.md) |
 | UX Tools | [Open list](ux/ux-tools.md) |
 | React | [Open list](frontend/react.md) |
-| CSS | [Open list](frontend/css.md) |
+| TypeScript | [Open list](frontend/typescript.md) |
 | JavaScript | [Open list](frontend/javascript.md) |
+| CSS | [Open list](frontend/css.md) |
+| Accessibility (a11y) | [Open list](frontend/accessibility.md) |
+| Web Performance | [Open list](frontend/performance.md) |
+| Testing & QA | [Open list](frontend/testing.md) |
+| State Management | [Open list](frontend/state-management.md) |
 | Developer Tools | [Open list](frontend/developer-tools.md) |
+| AI Developer Tools | [Open list](resources/ai-tools.md) |
+| Git & GitHub | [Open list](resources/git-github.md) |
+| DevOps & Cloud | [Open list](resources/devops.md) |
 | Design Inspiration | [Open directory (347+ sites)](inspiration/design-inspiration.md) |
 | Website Inspiration | [Open list](inspiration/website-inspiration.md) |
 | Portfolio Inspiration | [Open list](inspiration/portfolio-inspiration.md) |
@@ -25,6 +33,7 @@ A curated collection of UI/UX websites, component libraries, animations, design 
 | Illustrations | [Open list](resources/illustrations.md) |
 | Images | [Open list](resources/images.md) |
 | Curated Resources | [Open master directory](resources/curated-resources.md) |
+| Resource Directory | [Open 458-resource index](resources/website-directory.md) |
 | Live Website Links | [Open demo directory](demos/demo-links.md) |
 | UI Demo Videos | [Open video list](videos/ui-demos.md) |
 | Frontend Demo Videos | [Open video list](videos/frontend-demos.md) |
@@ -70,9 +79,23 @@ Use this format:
 
 Include separate demo and video links only when available and verified.
 
+## Documentation & Guidelines
+
+- [Resource Guidelines](docs/RESOURCE_GUIDELINES.md) — Scope, focus, and inclusion criteria
+- [Resource Submission Guide](docs/RESOURCE_SUBMISSION.md) — How to format and submit new resources
+- [Quality Standards](docs/QUALITY_STANDARDS.md) — Curation and formatting principles
+- [Duplicate Policy](docs/DUPLICATE_POLICY.md) — Auditing rules and duplicate resolution
+- [Link Validation](docs/LINK_VALIDATION.md) — Link health checking and status code handling
+- [Markdown Style Guide](docs/MARKDOWN_STYLE_GUIDE.md) — Syntax and formatting standards
+- [Categories & Architecture](docs/CATEGORIES.md) — Repository structure and directory index
+- [Repository Maintenance](docs/MAINTENANCE.md) — Maintainer workflows and CI pipelines
+- [Accessibility (a11y)](ACCESSIBILITY.md) — WCAG 2.1/2.2 guidelines and accessible resource standards
+- [Support Guidelines](SUPPORT.md) — How to get help and report problems
+- [Disclaimer](DISCLAIMER.md) — Information on third-party links, licenses, and availability
+
 ## Contributing
 
-Help expand this directory by adding useful resources, removing duplicate URLs, and keeping descriptions accurate.
+Help expand this directory by adding useful resources, removing duplicate URLs, and keeping descriptions accurate. See [CONTRIBUTING.md](CONTRIBUTING.md) and [docs/RESOURCE_SUBMISSION.md](docs/RESOURCE_SUBMISSION.md) to get started.
 
 ---
 
@@ -80,5 +103,6 @@ Maintained by **Maheswari Pinneti** | Frontend Developer
 
 ### Resource Collections
 
+- [458 Master Resource Directory (Alphabetical)](resources/website-directory.md)
 - [129 UI/UX, Frontend & Design Resources](resources/new-resources.md)
 - [347+ Curated Design Inspiration Sites](inspiration/design-inspiration.md)

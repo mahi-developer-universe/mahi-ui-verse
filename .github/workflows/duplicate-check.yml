@@ -1,0 +1,47 @@
+name: Duplicate Check
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.md"
+      - "**/*.json"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "**/*.md"
+      - "**/*.json"
+  workflow_dispatch:
+
+jobs:
+  duplicate-audit:
+    name: Audit Duplicate URLs & Resources
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Check Canonical Duplicates
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/find-duplicates.ps1") {
+            ./scripts/find-duplicates.ps1
+          }
+
+      - name: Check Near-Duplicates
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/audit-near-duplicates.ps1") {
+            ./scripts/audit-near-duplicates.ps1
+          }
+
+      - name: Upload Duplicate Report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: duplicate-report
+          path: reports/duplicate-*.*
+          if-no-files-found: ignore

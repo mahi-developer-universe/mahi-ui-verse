@@ -1,0 +1,33 @@
+name: Link Check
+
+on:
+  schedule:
+    # Run weekly on Sundays at midnight UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    name: Check Links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run PowerShell Link Checker
+        shell: pwsh
+        run: |
+          if (Test-Path "./scripts/check-links.ps1") {
+            ./scripts/check-links.ps1
+          } else {
+            Write-Host "check-links.ps1 script not found, skipping."
+          }
+
+      - name: Upload Link Report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: broken-links-report
+          path: reports/broken-links.*
+          if-no-files-found: ignore

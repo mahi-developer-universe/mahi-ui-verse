@@ -19,8 +19,13 @@
 ## Frontend
 
 - [React](../frontend/react.md)
-- [CSS](../frontend/css.md)
+- [TypeScript](../frontend/typescript.md)
 - [JavaScript](../frontend/javascript.md)
+- [CSS](../frontend/css.md)
+- [Accessibility (a11y)](../frontend/accessibility.md)
+- [Performance](../frontend/performance.md)
+- [Testing & QA](../frontend/testing.md)
+- [State Management](../frontend/state-management.md)
 - [Developer Tools](../frontend/developer-tools.md)
 - [Libraries](../frontend/libraries.md)
 
@@ -34,6 +39,10 @@
 ## Resources
 
 - [Curated Resources](../resources/curated-resources.md)
+- [Website Directory (458 Resources)](../resources/website-directory.md)
+- [AI & Generative Tools](../resources/ai-tools.md)
+- [Git & GitHub](../resources/git-github.md)
+- [DevOps & Cloud](../resources/devops.md)
 - [Icons](../resources/icons.md)
 - [Fonts](../resources/fonts.md)
 - [Illustrations](../resources/illustrations.md)
