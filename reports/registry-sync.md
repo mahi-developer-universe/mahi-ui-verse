@@ -1,6 +1,6 @@
 ﻿# Markdown ↔ Registry Synchronization Audit
 
-Generated: 2026-10-09 10:05:13
+Generated: 2026-10-09 12:44:18
 
 | Metric | Count |
 |---|---:|

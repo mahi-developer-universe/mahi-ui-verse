@@ -1,6 +1,6 @@
 ﻿# Resource Statistics
 
-Generated: 2026-10-09 10:03:18
+Generated: 2026-10-09 12:38:10
 
 | Metric | Count |
 |---|---:|
@@ -10,7 +10,7 @@ Generated: 2026-10-09 10:03:18
 | Open Source Resources | 5 |
 | Free Resources | 447 |
 | Commercial / Freemium / Paid | 6 |
-| Resources with GitHub Repositories |  |
+| Resources with GitHub Repositories | 1 |
 | Resources with Interactive Demos | 458 |
 | Resources with Video Links | 0 |
 | Active Status Resources | 458 |

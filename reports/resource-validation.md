@@ -1,13 +1,15 @@
 ﻿# Resource Validation Report
 
-Generated: 2026-10-09 10:05:13
+Generated: 2026-10-09 12:44:20
 
-- Markdown files scanned: 109
+- Markdown files scanned: 90
 - Errors: 0
-- Warnings: 13
+- Warnings: 15
 
 ## Findings
 
+- **WARNING** — `CHANGELOG.md:21` — Possible placeholder: - **Cleaned Placeholder Subdirectories**: Removed empty placeholder subdirectories in `resources/`, eliminating warning noise.
+- **WARNING** — `ROADMAP.md:18` — Possible placeholder: - [x] Cleaned placeholder subdirectories and aligned category structure
 - **WARNING** — `.github\PULL_REQUEST_TEMPLATE.md:23` — Possible placeholder: - [ ] Standard Markdown format has been followed (`1. Name — [https://example.com/](https://example.com/)` or table format).
 - **WARNING** — `audit\mahi-ui-verse\ANTIGRAVITY-PROMPT.md:183` — Possible placeholder: Remove empty placeholder rows. If a category is not yet populated,
 - **WARNING** — `audit\mahi-ui-verse\docs\VALIDATION-AND-CI.md:11` — Possible placeholder: - Likely placeholder content

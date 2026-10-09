@@ -12,13 +12,13 @@ if (Test-Path $RegistryJsonPath) {
 $Total = $Registry.Count
 $Categories = ($Registry | Group-Object category).Count
 $Subcategories = ($Registry | Group-Object subcategory).Count
-$Free = ($Registry | Where-Object { $_.pricing -eq "free" }).Count
-$Paid = ($Registry | Where-Object { $_.pricing -eq "paid" -or $_.pricing -eq "freemium" -or $_.pricing -eq "commercial" }).Count
-$OpenSource = ($Registry | Where-Object { $_.openSource -eq $true }).Count
-$WithGithub = ($Registry | Where-Object { -not [string]::IsNullOrWhiteSpace($_.github) }).Count
-$WithDemo = ($Registry | Where-Object { -not [string]::IsNullOrWhiteSpace($_.demo) }).Count
-$WithVideo = ($Registry | Where-Object { -not [string]::IsNullOrWhiteSpace($_.video) }).Count
-$Active = ($Registry | Where-Object { $_.status -eq "active" }).Count
+$Free = @($Registry | Where-Object { $_.pricing -eq "free" }).Count
+$Paid = @($Registry | Where-Object { $_.pricing -eq "paid" -or $_.pricing -eq "freemium" -or $_.pricing -eq "commercial" }).Count
+$OpenSource = @($Registry | Where-Object { $_.openSource -eq $true }).Count
+$WithGithub = @($Registry | Where-Object { $_.PSObject.Properties['github'] -and -not [string]::IsNullOrWhiteSpace($_.github) }).Count
+$WithDemo = @($Registry | Where-Object { $_.PSObject.Properties['demo'] -and -not [string]::IsNullOrWhiteSpace($_.demo) }).Count
+$WithVideo = @($Registry | Where-Object { $_.PSObject.Properties['video'] -and -not [string]::IsNullOrWhiteSpace($_.video) }).Count
+$Active = @($Registry | Where-Object { $_.status -eq "active" }).Count
 
 # Check for duplicate IDs or Names in registry
 $GroupedNames = $Registry | Group-Object name
